@@ -1,2 +1,3 @@
 bbb
 new changes in master
+some changes in feature2
