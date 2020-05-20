@@ -1,2 +1,3 @@
 aaa
 New changes in feature branch
+Another change in feature branch
